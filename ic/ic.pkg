@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'ic': Measures of interaction contrast (biological interaction) Use ic With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ic.ado
+f ic.sthlp
+f ici.ado
+f ici.sthlp
+f icp.ado
+f icp.sthlp
