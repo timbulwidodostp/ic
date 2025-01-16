@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ic Measures of interaction contrast (biological interaction) Use ic With STATA 18
